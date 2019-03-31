@@ -1,1 +1,3 @@
-# music_coaching_blog
+ABOUT
+============
+# Piano tutor is a coaching platform for piano players.
